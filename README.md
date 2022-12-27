@@ -1,4 +1,4 @@
-# Cetacean photo-identification
+# Cetaceans photo-identification
 
 Binary image classifier to check whether an image depicts a dolphin's fin or not.
 
